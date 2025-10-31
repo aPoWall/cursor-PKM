@@ -1,0 +1,44 @@
+# Obsidian настройки (персональные)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/hotkeys.json
+.obsidian/app.json
+.obsidian/appearance.json
+
+# Obsidian кэш
+.obsidian/cache
+
+# Obsidian плагины (опционально - если хотите синхронизировать плагины, закомментируйте)
+# .obsidian/plugins/
+# .obsidian/community-plugins.json
+
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+
+# Dropbox файлы
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
+# Конфликтные копии Dropbox
+*conflicted copy*
+
+# Временные файлы редакторов
+~$*
+*.swp
+*.swo
+*~
+
+# Node modules (если используете скрипты)
+node_modules/
+
+# Логи
+*.log
